@@ -1,0 +1,10 @@
+defaultZone = "http://localhost:8761/eureka/"
+renewalIntervalInSecs = 30
+registryFetchIntervalSeconds = 15
+durationInSecs = 90
+instanceID = "example-service"
+app = "example-service"
+#hostName = "10.245.4.47"
+#iP = "10.245.4.47"
+port = 10000
+metadata = { version = "1.1.1", node_group_id = "default" }
